@@ -2,14 +2,14 @@
 
 This project analyzes Swiggy food delivery data to evaluate sales performance, customer preferences and demand patterns using Python-based data analysis.
 
-# This analysis aims to answer the following business questions:
+## This analysis aims to answer the following business questions:
 
 - Which cities and states generate the highest revenue?
 - Do Non-Veg items contribute more sales than Veg items?
 - How does revenue vary across months and weekdays?
 - How are ratings distributed across orders?
 
-# Dataset
+## Dataset
 
 Food order transaction data containing:
 
@@ -20,7 +20,7 @@ Food order transaction data containing:
 - Rating  
 - Rating Count  
 
-# Analysis Performed
+## Analysis Performed
 
 - Total Revenue  
 - Average Rating  
@@ -28,7 +28,7 @@ Food order transaction data containing:
 - Total Ratings Count  
 - Total Orders  
 
-# Key Insights
+## Key Insights
 
 - Revenue is concentrated in a few major states  
 - Non-Veg items generate higher sales  
@@ -36,7 +36,7 @@ Food order transaction data containing:
 - Peak ordering occurs during specific periods  
 - Overall customer ratings are positive  
 
-# Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following actions can help improve business performance:
 - Focus more marketing efforts in cities and states that generate the highest revenue  
